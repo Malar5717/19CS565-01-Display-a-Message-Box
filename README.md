@@ -1,4 +1,4 @@
-# 01 - "Hello World" Display a MEssage Box 
+# 01 - "Hello World" Display a Message Box 
 
 ## Aim  
 To create an automation workflow in UiPath that uses an **Input Dialog** activity to take user input and display the result.  
